@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @egfarr01
 - 👀 I’m interested in programming, learning from others
-- 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on easy java projects
 - 📫 How to reach me farrereli@gmail.com
 
 <!---
